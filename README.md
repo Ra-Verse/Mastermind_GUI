@@ -27,8 +27,7 @@ This is a simple Mastermind game implemented in Python using Tkinter for the GUI
 2.  **Clone the Repository:**
 
     ```bash
-    git clone [repository URL]
-    cd [repository directory]
+    git clone https://github.com/Ra-Verse/Mastermind_GUI
     ```
 
 3.  **Run the Script:**
